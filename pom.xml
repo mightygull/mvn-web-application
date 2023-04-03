@@ -91,7 +91,9 @@
 			<scope>provided</scope>
 		</dependency>	
 	</dependencies>
+	
 	<distributionManagement>
+		
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
@@ -107,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>seed-serve</finalName>
 		
 		<plugins>
 			<plugin>
